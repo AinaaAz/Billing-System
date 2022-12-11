@@ -1,0 +1,13 @@
+**Log in to Electrical Consumption to view bar chart, stake chart, add bil and manage bill!***
+
+**Database Name: electrical_consumption**
+
+**Developed by Noorainaa**
+
+**Recommended PHP Version 5.6 and Newer**
+
+**Login Details**
+
+Username: admin
+Password: admin123
+
